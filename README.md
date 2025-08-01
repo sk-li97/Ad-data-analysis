@@ -18,8 +18,8 @@ This repository contains Python scripts for analyzing advertising performance da
 
 File: 产品报表_2025-04-18-2025-07-16_分日 (1).xlsx 所有具体数据已脱敏处理
 Sheet: sheet1
-## Columns:
--产品名称 (Product Name)
+Columns:
+- 产品名称 (Product Name)
 -产品ID (Product ID)
 -时间 (Date)
 -花费 (Spend)
@@ -29,6 +29,7 @@ Sheet: sheet1
 -激活量 (Activations)
 -收益 (Revenue)
 -ROAS (Return on Ad Spend)
-
+- Python 3.x
+- Libraries
 
 Data includes 571 rows across products like 魔仙堡, 玲珑, 小蓝, etc.
