@@ -18,8 +18,7 @@ This repository contains Python scripts for analyzing advertising performance da
 
 File: 产品报表_2025-04-18-2025-07-16_分日 (1).xlsx 所有具体数据已脱敏处理
 Sheet: sheet1
-Columns:
-
+## Columns:
 -产品名称 (Product Name)
 -产品ID (Product ID)
 -时间 (Date)
